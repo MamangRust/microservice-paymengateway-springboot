@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.saldoservice.saldoservice.controller.SaldoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.55 s -- in com.saldoservice.saldoservice.controller.SaldoControllerTest

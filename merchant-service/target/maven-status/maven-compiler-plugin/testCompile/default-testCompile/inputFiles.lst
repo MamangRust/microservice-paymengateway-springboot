@@ -1,0 +1,4 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/merchant-service/src/test/java/com/merchant/merchant/controller/MerchantControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/merchant-service/src/test/java/com/merchant/merchant/repository/MerchantDocumentRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/merchant-service/src/test/java/com/merchant/merchant/repository/MerchantRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/merchant-service/src/test/java/com/merchant/merchant/service/MerchantServiceTest.java

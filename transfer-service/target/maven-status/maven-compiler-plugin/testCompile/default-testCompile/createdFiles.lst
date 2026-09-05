@@ -1,0 +1,3 @@
+com/transferservice/transferservice/controller/TransferControllerTest.class
+com/transferservice/transferservice/repository/TransferRepositoryTest.class
+com/transferservice/transferservice/service/TransferServiceTest.class

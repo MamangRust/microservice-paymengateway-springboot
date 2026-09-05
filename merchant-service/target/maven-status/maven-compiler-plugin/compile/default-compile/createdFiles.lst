@@ -1,0 +1,13 @@
+com/merchant/merchant/dto/MerchantMapperImpl.class
+com/merchant/merchant/repository/MerchantDocumentRepository.class
+com/merchant/merchant/entity/MerchantDocument.class
+com/merchant/merchant/MerchantServiceApplication.class
+com/merchant/merchant/dto/ErrorResponse.class
+com/merchant/merchant/service/MerchantService.class
+com/merchant/merchant/dto/MerchantRequest.class
+com/merchant/merchant/entity/Merchant.class
+com/merchant/merchant/controller/MerchantController.class
+com/merchant/merchant/dto/MerchantResponse.class
+com/merchant/merchant/exc/GeneralExceptionHandler.class
+com/merchant/merchant/dto/MerchantMapper.class
+com/merchant/merchant/repository/MerchantRepository.class

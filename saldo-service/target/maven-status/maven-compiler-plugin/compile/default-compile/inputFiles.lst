@@ -1,0 +1,16 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/SaldoServiceApplication.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/controller/SaldoController.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/dto/ErrorResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/dto/SaldoMapper.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/dto/SaldoRequest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/dto/SaldoResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/entity/Outbox.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/entity/OutboxStatus.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/entity/Saldo.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/entity/SaldoMutationOperation.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/exc/GeneralExceptionHandler.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/outbox/OutboxPublisher.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/repository/OutboxRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/repository/SaldoMutationOperationRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/repository/SaldoRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/main/java/com/saldoservice/saldoservice/service/SaldoService.java

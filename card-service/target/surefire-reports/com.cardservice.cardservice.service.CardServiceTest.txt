@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cardservice.cardservice.service.CardServiceTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.648 s -- in com.cardservice.cardservice.service.CardServiceTest

@@ -1,0 +1,3 @@
+com/saldoservice/saldoservice/service/SaldoServiceTest.class
+com/saldoservice/saldoservice/repository/SaldoRepositoryTest.class
+com/saldoservice/saldoservice/controller/SaldoControllerTest.class

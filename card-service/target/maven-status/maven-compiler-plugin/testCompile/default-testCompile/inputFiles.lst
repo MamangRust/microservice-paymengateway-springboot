@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/card-service/src/test/java/com/cardservice/cardservice/controller/CardControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/card-service/src/test/java/com/cardservice/cardservice/repository/CardRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/card-service/src/test/java/com/cardservice/cardservice/service/CardServiceTest.java

@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/test/java/com/saldoservice/saldoservice/controller/SaldoControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/test/java/com/saldoservice/saldoservice/repository/SaldoRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-payment/saldo-service/src/test/java/com/saldoservice/saldoservice/service/SaldoServiceTest.java

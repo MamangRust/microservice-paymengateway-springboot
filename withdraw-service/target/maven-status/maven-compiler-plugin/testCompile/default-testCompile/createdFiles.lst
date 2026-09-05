@@ -1,0 +1,3 @@
+com/withdrawservice/withdrawservice/service/WithdrawServiceTest.class
+com/withdrawservice/withdrawservice/repository/WithdrawRepositoryTest.class
+com/withdrawservice/withdrawservice/controller/WithdrawControllerTest.class

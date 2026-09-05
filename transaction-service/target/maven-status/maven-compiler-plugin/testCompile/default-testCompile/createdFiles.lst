@@ -1,0 +1,3 @@
+com/transactionservice/transactionservice/service/TransactionServiceTest.class
+com/transactionservice/transactionservice/repository/TransactionRepositoryTest.class
+com/transactionservice/transactionservice/controller/TransactionControllerTest.class

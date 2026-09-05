@@ -1,0 +1,4 @@
+com/merchant/merchant/repository/MerchantRepositoryTest.class
+com/merchant/merchant/controller/MerchantControllerTest.class
+com/merchant/merchant/repository/MerchantDocumentRepositoryTest.class
+com/merchant/merchant/service/MerchantServiceTest.class

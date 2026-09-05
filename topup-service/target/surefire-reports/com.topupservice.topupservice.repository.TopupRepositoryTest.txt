@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.topupservice.topupservice.repository.TopupRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 65.85 s -- in com.topupservice.topupservice.repository.TopupRepositoryTest
